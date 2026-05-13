@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.judul1{
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.judul2{
+    border-top: 3px solid white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+}
+
+.fitur{
+    border: 1px solid white;
+}
+
+.fitur a{
+    color: white;
+    border: 1px solid white;
+}
